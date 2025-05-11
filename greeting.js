@@ -1,1 +1,4 @@
-const greeting = "Hello from branch B!"
+
+
+
+const greeting = "Hello from Sean, conflict resolved!"
